@@ -1,0 +1,9 @@
+{
+    "model": "mistral",
+    "messages": [
+        {
+            "role": "user",
+            "content": "You are an expert in job hunting and a cover letter writer. Given a resume file, the company name, job position, descriptions, and the date, write a cover letter for this candidate. The cover letter structure should be started with date, company name, street address of the company, city, zip code, and then the cover letter content. Keep empty the street address with [street address] and keep empty the city and zip code with [city, zipcode]. Be persuasive and professional. The keys of your dictionary will be first name, last name, location, work experience, school experience, and skills. In selecting the information, keep track of the most insightful. Do not return any additional text, explanations, or formatting outside the cover letter."
+        }
+    ]
+}
