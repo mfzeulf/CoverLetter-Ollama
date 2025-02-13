@@ -2,7 +2,7 @@
 A cover letter generator from resume using LLM locally with Ollama.
 ![Map](https://raw.githubusercontent.com/mfzulfikarr/CoverLetter-Ollama/refs/heads/main/img/CoverLetterLLM2.png)
 
-## This project was inspired from <a href="https://towardsdatascience.com/from-resume-to-cover-letter-using-ai-and-llm-with-python-and-streamlit/" target="_blank">This Article</a> By Piero Paialunga
+### This project was inspired from <a href="https://towardsdatascience.com/from-resume-to-cover-letter-using-ai-and-llm-with-python-and-streamlit/" target="_blank">This Article</a> By Piero Paialunga
 
 Check him out! ;)
 
