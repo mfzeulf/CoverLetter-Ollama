@@ -18,10 +18,10 @@ Check him out! ;)
 ## Requirements
 This program was tested using mistral 7B language model with ollama with following hardware:
 
-Intel Core i7 4720HQ
-2GB Nvidia Geforce GTX 960m
-12GB of RAM
-1TB of drives space
+1. Intel Core i7 4720HQ
+2. 2GB Nvidia Geforce GTX 960m
+3. 12GB of RAM
+4. 1TB of drives space (Total size used was 4GB from Mistral-7B model.)
 
 Time elapsed time for generating a cover letter is in between 5-10 minutes
 
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ```
 
 ## Getting Started
-The resume should be an ATS friendly resume in a form of text document with an extension of docx or pdf. An image converted into pdf will not work as it's not support OCR feature (yet).
+The resume or CV should be an ATS friendly resume in a form of text document with an extension of docx or pdf. An image converted into pdf will not work as it's not support OCR feature (yet).
 
 ### Run the project
 After installing the ollama software from shell (recommended) or from an exe, install a language model from shell.
