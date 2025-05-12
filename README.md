@@ -14,7 +14,7 @@ Check him out! ;)
 ## Features
 1. Auto resume parser both pdf and docx.
 2. Pre-formatted answers.
-3. Unlimited generations and more secured privacy because it runs locally.
+3. Unlimited generations and more secured privacy.
 ## Requirements
 This program was tested using mistral 7B language model with ollama with following hardware:
 
